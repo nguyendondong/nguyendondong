@@ -15,9 +15,6 @@ I’m currently learning ...
 
   
 [![Activity](https://github-readme-stats.vercel.app/api?username=nguyendondong&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendondong&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak Counter](https://github-readme-streak-stats.herokuapp.com/?user=nguyendondong&theme=vue-dark)](https://git.io/streak-stats)
 <!--START_SECTION:auto_commit-->
 Life begins at the end of your comfort zone.
