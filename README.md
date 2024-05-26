@@ -19,3 +19,6 @@ I’m currently learning ...
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendondong&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak Counter](https://github-readme-streak-stats.herokuapp.com/?user=nguyendondong&theme=vue-dark)](https://git.io/streak-stats)
+<!--START_SECTION:auto_commit-->
+Life begins at the end of your comfort zone.
+<!--END_SECTION:auto_commit-->
