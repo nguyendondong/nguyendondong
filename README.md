@@ -1,4 +1,4 @@
-## Hi there Im Nguyễn Đôn Đổng👋
+## Hi there I'm Nguyễn Đôn Đổng👋
 
 - 🔭 I have a deep passion for technology and I'm always on the lookout for innovative solutions to enhance processes, ensure efficiency, and bolster security in software projects.
 
