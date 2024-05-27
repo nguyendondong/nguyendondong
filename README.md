@@ -16,6 +16,6 @@ I’m currently learning ...
   
 [![Activity](https://github-readme-stats.vercel.app/api?username=nguyendondong&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:auto_commit-->
-Life begins at the end of your comfort zone.
+The good times of today are the sad thoughts of tomorrow.
 <!--END_SECTION:auto_commit-->
 
