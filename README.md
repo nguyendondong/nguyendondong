@@ -19,6 +19,6 @@
 
 # 🌱 Motivational Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The good times of today are the sad thoughts of tomorrow.
+Despite having all the names of the Devil in the scriptures, they are still considered holy.
 <!--END_SECTION:auto_commit-->
 
