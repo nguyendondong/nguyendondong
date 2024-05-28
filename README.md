@@ -17,8 +17,13 @@
   
 [![Activity](https://github-readme-stats.vercel.app/api?username=nguyendondong&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)
 
-# 🌱 Motivational Quotes 🌱
+# 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
 Despite having all the names of the Devil in the scriptures, they are still considered holy.
 <!--END_SECTION:auto_commit-->
+#
+
+[![GitHub Streak Counter](https://github-readme-streak-stats.herokuapp.com/?user=nguyendondong&theme=vue-dark)](https://git.io/streak-stats)
+
+![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=nguyendondong.nguyendondong)
 
