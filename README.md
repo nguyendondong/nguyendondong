@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Despite having all the names of the Devil in the scriptures, they are still considered holy.
+Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
 <!--END_SECTION:auto_commit-->
 #
 
