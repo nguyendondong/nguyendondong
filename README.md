@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
+Adulthood is within the mind and not in age.
 <!--END_SECTION:auto_commit-->
 #
 
