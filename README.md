@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Adulthood is within the mind and not in age.
+They fear love because it creates a world they can't control.
 <!--END_SECTION:auto_commit-->
 #
 
