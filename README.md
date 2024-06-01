@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-They fear love because it creates a world they can't control.
+Coming together is a beginning, staying together is progress, and working together is success.
 <!--END_SECTION:auto_commit-->
 #
 
