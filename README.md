@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Coming together is a beginning, staying together is progress, and working together is success.
+Big deal. Death always went with the territory. See you in Disneyland.
 <!--END_SECTION:auto_commit-->
 #
 
