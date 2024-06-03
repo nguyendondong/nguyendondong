@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Big deal. Death always went with the territory. See you in Disneyland.
+The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
 <!--END_SECTION:auto_commit-->
 #
 
