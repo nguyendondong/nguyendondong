@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.
+To achieve this, we have to distinctively promote continuing and lifelong education, the form of education which is responsive to individual needs and preferences. With educational facilities and a variety of educational programs available, people can make use of the learning centre as a place to acquire technical skills or knowledge adaptive to their work and daily life activities.
 <!--END_SECTION:auto_commit-->
 #
 
