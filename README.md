@@ -19,7 +19,9 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-To achieve this, we have to distinctively promote continuing and lifelong education, the form of education which is responsive to individual needs and preferences. With educational facilities and a variety of educational programs available, people can make use of the learning centre as a place to acquire technical skills or knowledge adaptive to their work and daily life activities.
+Before you judge me, try hard to love me,
+Look within your heart then ask,
+Have you seen my childhood?
 <!--END_SECTION:auto_commit-->
 #
 
