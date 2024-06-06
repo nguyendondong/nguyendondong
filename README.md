@@ -19,9 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Before you judge me, try hard to love me,
-Look within your heart then ask,
-Have you seen my childhood?
+Reading is the greatest thing ever, I've read alot that I know what very few people know… That the stars in the night sky are suns and that there are earth-like planets orbiting those stars, meaning there are other planets like earth out there… Reading is great
 <!--END_SECTION:auto_commit-->
 #
 
