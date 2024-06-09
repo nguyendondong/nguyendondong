@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Beauty is bought by judgement of the eye.
+The sin which is unpardonable is knowingly and wilfully to reject truth, to fear knowledge lest that knowledge pander not to thy prejudices.
 <!--END_SECTION:auto_commit-->
 #
 
