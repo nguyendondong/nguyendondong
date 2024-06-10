@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The sin which is unpardonable is knowingly and wilfully to reject truth, to fear knowledge lest that knowledge pander not to thy prejudices.
+If you're really a mean person you're going to come back as a fly and eat poop.
 <!--END_SECTION:auto_commit-->
 #
 
