@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-If you're really a mean person you're going to come back as a fly and eat poop.
+The only time I have problems is when I sleep.
 <!--END_SECTION:auto_commit-->
 #
 
