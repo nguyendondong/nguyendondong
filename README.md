@@ -19,7 +19,8 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The only time I have problems is when I sleep.
+Love the life you live.
+Live the life you love.
 <!--END_SECTION:auto_commit-->
 #
 
