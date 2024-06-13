@@ -19,8 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Love the life you live.
-Live the life you love.
+If you're afraid to fail, then you're probably going to fail.
 <!--END_SECTION:auto_commit-->
 #
 
