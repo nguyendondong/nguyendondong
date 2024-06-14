@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-If you're afraid to fail, then you're probably going to fail.
+Words are more powerful than some noises. Noises won't last long. Lyrics are so important, and people don't realise that.
 <!--END_SECTION:auto_commit-->
 #
 
