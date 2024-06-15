@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Words are more powerful than some noises. Noises won't last long. Lyrics are so important, and people don't realise that.
+The first gulp from the glass of natural sciences will turn you into an atheist, but at the bottom of the glass God is waiting for you.
 <!--END_SECTION:auto_commit-->
 #
 
