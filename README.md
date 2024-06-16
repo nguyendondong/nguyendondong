@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The first gulp from the glass of natural sciences will turn you into an atheist, but at the bottom of the glass God is waiting for you.
+To play a wrong note is insignificant; to play without passion is inexcusable
 <!--END_SECTION:auto_commit-->
 #
 
