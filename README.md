@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-As long as I can make them laugh, it doesn’t matter how, I’ll be alright. If I succeed in that, the human beings probably won’t mind it too much if I remain outside their lives. The one thing I must avoid is becoming offensive in their eyes: I shall be nothing, the wind, the sky.
+It's a beautiful thing, the destruction of words.
 <!--END_SECTION:auto_commit-->
 #
 
