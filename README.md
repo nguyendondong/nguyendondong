@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-It's a beautiful thing, the destruction of words.
+Start where you are. Use what you have. Do what you can.
 <!--END_SECTION:auto_commit-->
 #
 
