@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Start where you are. Use what you have. Do what you can.
+C4 to your door, no beef no more.
 <!--END_SECTION:auto_commit-->
 #
 
