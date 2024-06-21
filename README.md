@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-C4 to your door, no beef no more.
+Better to die fighting for freedom then be a prisoner all the days of your life.
 <!--END_SECTION:auto_commit-->
 #
 
