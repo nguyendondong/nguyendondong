@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Better to die fighting for freedom then be a prisoner all the days of your life.
+He who does nothing makes no mistakes; he who makes no mistakes learns nothing.
 <!--END_SECTION:auto_commit-->
 #
 
