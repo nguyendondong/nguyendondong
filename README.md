@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-He who does nothing makes no mistakes; he who makes no mistakes learns nothing.
+When you have money in hand, only you forget who are you. But when you do not have any money in your hand, the whole world forget who you are. It's life.
 <!--END_SECTION:auto_commit-->
 #
 
