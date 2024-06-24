@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-When you have money in hand, only you forget who are you. But when you do not have any money in your hand, the whole world forget who you are. It's life.
+The most beautiful moments in life are moments when you are expressing your joy, not when you are seeking it.
 <!--END_SECTION:auto_commit-->
 #
 
