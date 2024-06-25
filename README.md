@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The most beautiful moments in life are moments when you are expressing your joy, not when you are seeking it.
+I'll go out on a limb and say that that glow arose from his past.
 <!--END_SECTION:auto_commit-->
 #
 
