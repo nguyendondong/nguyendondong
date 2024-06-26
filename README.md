@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I'll go out on a limb and say that that glow arose from his past.
+Great minds discuss ideas, average minds discuss events, small minds discuss people. 
 <!--END_SECTION:auto_commit-->
 #
 
