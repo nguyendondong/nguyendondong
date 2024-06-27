@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Great minds discuss ideas, average minds discuss events, small minds discuss people. 
+The Socialists ask what is our program? Our program is to smash the heads of the Socialists.
 <!--END_SECTION:auto_commit-->
 #
 
