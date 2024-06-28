@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The Socialists ask what is our program? Our program is to smash the heads of the Socialists.
+If you see me in a fight with a bear, pray for the bear.
 <!--END_SECTION:auto_commit-->
 #
 
