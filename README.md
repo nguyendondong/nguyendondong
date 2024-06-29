@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-If you see me in a fight with a bear, pray for the bear.
+First say to yourself what you would be; and then do what you have to do.
 <!--END_SECTION:auto_commit-->
 #
 
