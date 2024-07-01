@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The objective of education reform is to creat learning individual, organization, and society. An educated person or the authentic learning outcome should possess the following abilities and characteristics which are based on Thai cultural heritage and appropriate level of education: good physical and mental health, critical thinking, intellectual inquisitiveness, professionalism, sense of responsibility, honesty, selfsacrifice, perseverance, team spirit, adherence to democracy, and love for King, Country and Religion.
+It is you who judges who you are. In this way, the judgment is accurate.
 <!--END_SECTION:auto_commit-->
 #
 
