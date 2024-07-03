@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-It is you who judges who you are. In this way, the judgment is accurate.
+Watch for phonies, keep your enemies close nigga watch your homies
 <!--END_SECTION:auto_commit-->
 #
 
