@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The biggest people with the biggest ideas can be shot down by the smallest people with the smallest minds. Think big anyway!
+We don't like to kill our unborn, we need them to grow up and fight our wars.
 <!--END_SECTION:auto_commit-->
 #
 
