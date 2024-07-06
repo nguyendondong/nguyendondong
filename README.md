@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-We don't like to kill our unborn, we need them to grow up and fight our wars.
+This time the struggle is for our freedom, this time the struggle is for our independence! Joy bangla!
 <!--END_SECTION:auto_commit-->
 #
 
