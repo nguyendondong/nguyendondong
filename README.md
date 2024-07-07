@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-This time the struggle is for our freedom, this time the struggle is for our independence! Joy bangla!
+You get depressed because you know that you're not what you should be.
 <!--END_SECTION:auto_commit-->
 #
 
