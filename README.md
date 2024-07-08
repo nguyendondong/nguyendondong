@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-You get depressed because you know that you're not what you should be.
+It's too bad that stupidity isn't painful.
 <!--END_SECTION:auto_commit-->
 #
 
