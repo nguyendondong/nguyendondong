@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-It's too bad that stupidity isn't painful.
+Love starts when we push aside our ego and make room for someone else.
 <!--END_SECTION:auto_commit-->
 #
 
