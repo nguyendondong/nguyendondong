@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Love starts when we push aside our ego and make room for someone else.
+Any girl can be glamorous. All you have to do is stand still and look stupid.
 <!--END_SECTION:auto_commit-->
 #
 
