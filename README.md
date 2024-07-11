@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Any girl can be glamorous. All you have to do is stand still and look stupid.
+All sort of boundaries, be their gender, age, socio-economic status, physical or mental disabilities have to be eliminated.
 <!--END_SECTION:auto_commit-->
 #
 
