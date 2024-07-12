@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-All sort of boundaries, be their gender, age, socio-economic status, physical or mental disabilities have to be eliminated.
+"It's not a shame to fail exams, but it's a shame to be satisfied with the habit of failing continuously." Ahmed Omaar
 <!--END_SECTION:auto_commit-->
 #
 
