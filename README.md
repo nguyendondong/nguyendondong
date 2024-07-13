@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-"It's not a shame to fail exams, but it's a shame to be satisfied with the habit of failing continuously." Ahmed Omaar
+I think everybody's weird. We should all celebrate our individuality and not be embarrassed or ashamed of it.
 <!--END_SECTION:auto_commit-->
 #
 
