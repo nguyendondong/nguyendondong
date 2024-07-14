@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I think everybody's weird. We should all celebrate our individuality and not be embarrassed or ashamed of it.
+Adulthood is within the mind and not in age.
 <!--END_SECTION:auto_commit-->
 #
 
