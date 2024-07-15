@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Adulthood is within the mind and not in age.
+I can fight only for something that I love. I can love only what I respect. And in order to respect a thing I must at least have some knowledge of it.
 <!--END_SECTION:auto_commit-->
 #
 
