@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I think a lot, but I don't say much.
+Such prizes and punishments are, if I may be allowed the expression, the bench of the soul, the instrument of slavery for the spirit.
 <!--END_SECTION:auto_commit-->
 #
 
