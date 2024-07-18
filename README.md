@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Such prizes and punishments are, if I may be allowed the expression, the bench of the soul, the instrument of slavery for the spirit.
+Economic, social, political, environmental and population development in Thailand have created a series of problems that must be addressed addressesed by education.
 <!--END_SECTION:auto_commit-->
 #
 
