@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Economic, social, political, environmental and population development in Thailand have created a series of problems that must be addressed addressesed by education.
+War is over… If you want it.
 <!--END_SECTION:auto_commit-->
 #
 
