@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-War is over… If you want it.
+Jewish history is full of suffering and terrible sorrow. But it is also full of immeasurable joy. We honor the suffering through remembrance. We honor the joy through celebration.
 <!--END_SECTION:auto_commit-->
 #
 
