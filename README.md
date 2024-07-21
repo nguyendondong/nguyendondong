@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Jewish history is full of suffering and terrible sorrow. But it is also full of immeasurable joy. We honor the suffering through remembrance. We honor the joy through celebration.
+All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.
 <!--END_SECTION:auto_commit-->
 #
 
