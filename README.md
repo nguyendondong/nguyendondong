@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.
+Anyone who has never made a mistake has never tried anything new.
 <!--END_SECTION:auto_commit-->
 #
 
