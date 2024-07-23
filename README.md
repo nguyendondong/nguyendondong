@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Anyone who has never made a mistake has never tried anything new.
+Those who seek respect without deserving it end up surrounding themselves with flatterers, or people who claim to respect you when they don't.
 <!--END_SECTION:auto_commit-->
 #
 
