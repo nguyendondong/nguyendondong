@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Those who seek respect without deserving it end up surrounding themselves with flatterers, or people who claim to respect you when they don't.
+People really need help but may attack you if you help them. Help people anyway!
 <!--END_SECTION:auto_commit-->
 #
 
