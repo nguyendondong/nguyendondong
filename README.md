@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-People really need help but may attack you if you help them. Help people anyway!
+Art should comfort the disturbed and disturb the comfortable.
 <!--END_SECTION:auto_commit-->
 #
 
