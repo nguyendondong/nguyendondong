@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Art should comfort the disturbed and disturb the comfortable.
+You can spend minutes, hours, days, weeks, or even months over-analyzing a situation; trying to put the pieces together, justifying what could've, would've happened… or you can just leave the pieces on the floor and move on.
 <!--END_SECTION:auto_commit-->
 #
 
