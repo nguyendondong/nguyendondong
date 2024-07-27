@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-You can spend minutes, hours, days, weeks, or even months over-analyzing a situation; trying to put the pieces together, justifying what could've, would've happened… or you can just leave the pieces on the floor and move on.
+I can fight only for something that I love. I can love only what I respect. And in order to respect a thing I must at least have some knowledge of it.
 <!--END_SECTION:auto_commit-->
 #
 
