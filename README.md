@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I can fight only for something that I love. I can love only what I respect. And in order to respect a thing I must at least have some knowledge of it.
+Both individuals and communities must be able to possess the skills and knowledge required to function productively in the changing world.
 <!--END_SECTION:auto_commit-->
 #
 
