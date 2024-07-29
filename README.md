@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Both individuals and communities must be able to possess the skills and knowledge required to function productively in the changing world.
+Reality is wrong. Dreams are for the real.
 <!--END_SECTION:auto_commit-->
 #
 
