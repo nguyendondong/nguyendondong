@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-My strong point is that even if I don’t do well in a competition, I don’t really get depressed. On the contrary, my motivation goes up 100% after a competition where I’ve failed.
+Beauty is not in the face; beauty is a light in the heart.
 <!--END_SECTION:auto_commit-->
 #
 
