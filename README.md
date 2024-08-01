@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Beauty is not in the face; beauty is a light in the heart.
+Already in his old age, at seventy-five years old, after being seriously hospitalized for a severe heart attack, Javier Pérez would remember that only once in his entire existence had he believed he understood what life was.
 <!--END_SECTION:auto_commit-->
 #
 
