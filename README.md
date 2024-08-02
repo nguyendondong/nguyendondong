@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Already in his old age, at seventy-five years old, after being seriously hospitalized for a severe heart attack, Javier Pérez would remember that only once in his entire existence had he believed he understood what life was.
+The prayer of the true soldier is not to die peacefully, but to leave the country and its citizens with peace of mind.
 <!--END_SECTION:auto_commit-->
 #
 
