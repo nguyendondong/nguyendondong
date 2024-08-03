@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The prayer of the true soldier is not to die peacefully, but to leave the country and its citizens with peace of mind.
+As you start to walk on the way, the way appears.
 <!--END_SECTION:auto_commit-->
 #
 
