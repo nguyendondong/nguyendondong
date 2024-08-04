@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-As you start to walk on the way, the way appears.
+A leader leads by example not by force.
 <!--END_SECTION:auto_commit-->
 #
 
