@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-A leader leads by example not by force.
+I am a hard person to love but when I love, I love really hard.
 <!--END_SECTION:auto_commit-->
 #
 
