@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I am a hard person to love but when I love, I love really hard.
+In my mind, I'm always the best. I don't care what people think, what they say. In my mind, not just this year but always, I'm always the best.
 <!--END_SECTION:auto_commit-->
 #
 
