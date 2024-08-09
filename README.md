@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-This generation has lost the true meaning of romance. There are so many songs that disrespect women. You can’t treat the woman you love as a piece of meat. You should treat your love like a princess. Give her love songs, something with real meaning. Maybe I’m old fashioned but to respect the woman you love should be a priority.
+The biggest coward of a man is to awaken the love of a woman without the intention of loving her.
 <!--END_SECTION:auto_commit-->
 #
 
