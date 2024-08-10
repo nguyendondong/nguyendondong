@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The biggest coward of a man is to awaken the love of a woman without the intention of loving her.
+Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.
 <!--END_SECTION:auto_commit-->
 #
 
