@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.
+Love is a trap. When it appears, we see only its light, not its shadows.
 <!--END_SECTION:auto_commit-->
 #
 
