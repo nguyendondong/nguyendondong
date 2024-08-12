@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Love is a trap. When it appears, we see only its light, not its shadows.
+A woman should soften but not weaken a man.
 <!--END_SECTION:auto_commit-->
 #
 
