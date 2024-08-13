@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-A woman should soften but not weaken a man.
+Doublethink means the power of holding two contradictory beliefs in one's mind simultaneously, and accepting both of them.
 <!--END_SECTION:auto_commit-->
 #
 
