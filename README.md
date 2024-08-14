@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Doublethink means the power of holding two contradictory beliefs in one's mind simultaneously, and accepting both of them.
+I believe there is something out there watching us. Unfortunately, it's the government.
 <!--END_SECTION:auto_commit-->
 #
 
