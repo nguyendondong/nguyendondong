@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I believe there is something out there watching us. Unfortunately, it's the government.
+We can change our lives. We can do, have, and be exactly what we wish.
 <!--END_SECTION:auto_commit-->
 #
 
