@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-We can change our lives. We can do, have, and be exactly what we wish.
+I love you the more in that I believe you had liked me for my own sake and for nothing else.
 <!--END_SECTION:auto_commit-->
 #
 
