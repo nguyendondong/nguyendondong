@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I love you the more in that I believe you had liked me for my own sake and for nothing else.
+To avoid criticism, say nothing, do nothing, be nothing.
 <!--END_SECTION:auto_commit-->
 #
 
