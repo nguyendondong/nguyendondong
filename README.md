@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-To avoid criticism, say nothing, do nothing, be nothing.
+I am the happiest creature in the world. Perhaps other people have said so before, but not one with such justice. I am happier even than Jane; she only smiles, I laugh.
 <!--END_SECTION:auto_commit-->
 #
 
