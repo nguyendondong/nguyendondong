@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I am the happiest creature in the world. Perhaps other people have said so before, but not one with such justice. I am happier even than Jane; she only smiles, I laugh.
+Value your friendship. Value your relationships.
 <!--END_SECTION:auto_commit-->
 #
 
