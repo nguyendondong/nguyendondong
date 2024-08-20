@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Value your friendship. Value your relationships.
+The biggest people with the biggest ideas can be shot down by the smallest people with the smallest minds. Think big anyway!
 <!--END_SECTION:auto_commit-->
 #
 
