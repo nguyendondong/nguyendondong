@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The biggest people with the biggest ideas can be shot down by the smallest people with the smallest minds. Think big anyway!
+A philosopher is a blind man in a dark room looking for a black cat that isn't there. A theologian is the man who finds it.
 <!--END_SECTION:auto_commit-->
 #
 
