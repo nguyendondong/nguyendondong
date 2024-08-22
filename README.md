@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-A philosopher is a blind man in a dark room looking for a black cat that isn't there. A theologian is the man who finds it.
+I accept chaos, I'm not sure whether it accepts me.
 <!--END_SECTION:auto_commit-->
 #
 
