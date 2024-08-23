@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I accept chaos, I'm not sure whether it accepts me.
+The prayer of the true soldier is not to die peacefully, but to leave the country and its citizens with peace of mind.
 <!--END_SECTION:auto_commit-->
 #
 
