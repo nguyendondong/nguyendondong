@@ -19,7 +19,8 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The prayer of the true soldier is not to die peacefully, but to leave the country and its citizens with peace of mind.
+The music is not in the notes,
+but in the silence between.
 <!--END_SECTION:auto_commit-->
 #
 
