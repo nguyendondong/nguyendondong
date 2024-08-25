@@ -19,8 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The music is not in the notes,
-but in the silence between.
+People understand me so poorly that they don't even understand my complaint about them not understanding me.
 <!--END_SECTION:auto_commit-->
 #
 
