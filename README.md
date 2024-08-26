@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-People understand me so poorly that they don't even understand my complaint about them not understanding me.
+America will never be destroyed from the outside. If we falter and lose our freedoms, it will be because we destroyed ourselves.
 <!--END_SECTION:auto_commit-->
 #
 
