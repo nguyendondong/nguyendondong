@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-America will never be destroyed from the outside. If we falter and lose our freedoms, it will be because we destroyed ourselves.
+No matter who you are, no matter what you did, no matter where you've come from, you can always change, become a better version of yourself.
 <!--END_SECTION:auto_commit-->
 #
 
