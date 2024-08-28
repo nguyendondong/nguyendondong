@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-No matter who you are, no matter what you did, no matter where you've come from, you can always change, become a better version of yourself.
+I miss the comfort in being sad.
 <!--END_SECTION:auto_commit-->
 #
 
