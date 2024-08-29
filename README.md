@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I miss the comfort in being sad.
+Times are bad. Children no longer obey their parents, and everyone is writing a book.
 <!--END_SECTION:auto_commit-->
 #
 
