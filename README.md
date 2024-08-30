@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Times are bad. Children no longer obey their parents, and everyone is writing a book.
+With mirth and laughter let old wrinkles come.
 <!--END_SECTION:auto_commit-->
 #
 
