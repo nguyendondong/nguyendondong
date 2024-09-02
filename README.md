@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Will you love me in December as you do in May?
+It's weird not to be weird.
 <!--END_SECTION:auto_commit-->
 #
 
