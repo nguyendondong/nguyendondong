@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-It's weird not to be weird.
+In life, all good things come hard, but wisdom is the hardest to come by.
 <!--END_SECTION:auto_commit-->
 #
 
