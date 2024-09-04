@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-In life, all good things come hard, but wisdom is the hardest to come by.
+Practice yourself, for heaven's sake, in little things; and thence proceed to greater.
 <!--END_SECTION:auto_commit-->
 #
 
