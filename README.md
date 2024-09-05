@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Practice yourself, for heaven's sake, in little things; and thence proceed to greater.
+Don't mind anything anyone tells you about anyone else. Judge everyone and everything for yourself.
 <!--END_SECTION:auto_commit-->
 #
 
