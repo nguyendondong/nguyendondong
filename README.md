@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Don't mind anything anyone tells you about anyone else. Judge everyone and everything for yourself.
+A TV evening with the right person can be more erotic than sex with the wrong one. 
 <!--END_SECTION:auto_commit-->
 #
 
