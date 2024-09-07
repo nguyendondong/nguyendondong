@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-A TV evening with the right person can be more erotic than sex with the wrong one. 
+Shout out to everyone makin' my beats, you helpin' me preach This music's the only thing keepin' the peace when I'm fallin' to pieces
 <!--END_SECTION:auto_commit-->
 #
 
