@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Shout out to everyone makin' my beats, you helpin' me preach This music's the only thing keepin' the peace when I'm fallin' to pieces
+There is a charm about the forbidden that makes it unspeakably desirable.
 <!--END_SECTION:auto_commit-->
 #
 
