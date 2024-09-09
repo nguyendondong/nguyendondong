@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-There is a charm about the forbidden that makes it unspeakably desirable.
+If animals could speak, the dog would be a blundering outspoken fellow; but the cat would have the rare grace of never saying a word too much.
 <!--END_SECTION:auto_commit-->
 #
 
