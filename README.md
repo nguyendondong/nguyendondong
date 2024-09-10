@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-If animals could speak, the dog would be a blundering outspoken fellow; but the cat would have the rare grace of never saying a word too much.
+Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend's success.
 <!--END_SECTION:auto_commit-->
 #
 
