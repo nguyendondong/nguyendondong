@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend's success.
+It is difficult to find happiness within oneself, but it is impossible to find it anywhere else.
 <!--END_SECTION:auto_commit-->
 #
 
