@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-It is difficult to find happiness within oneself, but it is impossible to find it anywhere else.
+When you attack us, you will see our faces. Not our backs, but our faces.
 <!--END_SECTION:auto_commit-->
 #
 
