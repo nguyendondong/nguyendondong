@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-When you attack us, you will see our faces. Not our backs, but our faces.
+The only way to get rid of temptation is to yield to it.
 <!--END_SECTION:auto_commit-->
 #
 
