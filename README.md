@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The only way to get rid of temptation is to yield to it.
+If your joy is derived from what society thinks of you, you're always going to be disappointed.
 <!--END_SECTION:auto_commit-->
 #
 
