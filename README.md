@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-If your joy is derived from what society thinks of you, you're always going to be disappointed.
+The best way to pay for a lovely moment is to enjoy it.
 <!--END_SECTION:auto_commit-->
 #
 
