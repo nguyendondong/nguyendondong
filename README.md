@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The best way to pay for a lovely moment is to enjoy it.
+All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.
 <!--END_SECTION:auto_commit-->
 #
 
