@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.
+They sicken of the calm who know the storm.
 <!--END_SECTION:auto_commit-->
 #
 
