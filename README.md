@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-They sicken of the calm who know the storm.
+May the forces of evil become confused on the way to your house.
 <!--END_SECTION:auto_commit-->
 #
 
