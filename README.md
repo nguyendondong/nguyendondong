@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-May the forces of evil become confused on the way to your house.
+Women are beautiful in the light of the day, but are even more so in the shadows of the night.
 <!--END_SECTION:auto_commit-->
 #
 
