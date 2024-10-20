@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Women are beautiful in the light of the day, but are even more so in the shadows of the night.
+Silence is a true friend who never betrays.
 <!--END_SECTION:auto_commit-->
 #
 
