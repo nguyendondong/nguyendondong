@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Silence is a true friend who never betrays.
+The more you like yourself, the less you are like anyone else, which makes you unique.
 <!--END_SECTION:auto_commit-->
 #
 
