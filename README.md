@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The more you like yourself, the less you are like anyone else, which makes you unique.
+We know what we are, but know not what we may be.
 <!--END_SECTION:auto_commit-->
 #
 
