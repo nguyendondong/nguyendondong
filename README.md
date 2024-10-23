@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-We know what we are, but know not what we may be.
+But who prays for Satan? Who, in eighteen centuries, has had the common humanity to pray for the one sinner that needed it most?
 <!--END_SECTION:auto_commit-->
 #
 
