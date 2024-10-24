@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-But who prays for Satan? Who, in eighteen centuries, has had the common humanity to pray for the one sinner that needed it most?
+Quality is never an accident; it is always the result of intelligent effort.
 <!--END_SECTION:auto_commit-->
 #
 
