@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Quality is never an accident; it is always the result of intelligent effort.
+Life is never fair, and perhaps it is a good thing for most of us that it is not.
 <!--END_SECTION:auto_commit-->
 #
 
