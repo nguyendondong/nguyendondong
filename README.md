@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Life is never fair, and perhaps it is a good thing for most of us that it is not.
+Change your life today. Don't gamble on the future, act now, without delay.
 <!--END_SECTION:auto_commit-->
 #
 
