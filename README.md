@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Change your life today. Don't gamble on the future, act now, without delay.
+I'd rather take coffee than compliments just now.
 <!--END_SECTION:auto_commit-->
 #
 
