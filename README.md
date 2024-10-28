@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I'd rather take coffee than compliments just now.
+Sometimes, being true to yourself means changing your mind. Self changes, and you follow.
 <!--END_SECTION:auto_commit-->
 #
 
