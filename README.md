@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Sometimes, being true to yourself means changing your mind. Self changes, and you follow.
+Don't feel bad when you meet disappointment, it prepares you for an extraordinary ending
 <!--END_SECTION:auto_commit-->
 #
 
