@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Don't feel bad when you meet disappointment, it prepares you for an extraordinary ending
+What worries you, masters you.
 <!--END_SECTION:auto_commit-->
 #
 
