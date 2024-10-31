@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-What worries you, masters you.
+It wasn’t in books. It wasn’t in a church. What I needed to know was out there in the world.
 <!--END_SECTION:auto_commit-->
 #
 
