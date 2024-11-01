@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-It wasn’t in books. It wasn’t in a church. What I needed to know was out there in the world.
+The superior man is modest in his speech, but exceeds in his actions.
 <!--END_SECTION:auto_commit-->
 #
 
