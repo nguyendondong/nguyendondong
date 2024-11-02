@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The superior man is modest in his speech, but exceeds in his actions.
+I have no special talents. I am only passionately curious.
 <!--END_SECTION:auto_commit-->
 #
 
