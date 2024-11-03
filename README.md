@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I have no special talents. I am only passionately curious.
+It is better wither to be silent, or to say things of more value than silence.
 <!--END_SECTION:auto_commit-->
 #
 
