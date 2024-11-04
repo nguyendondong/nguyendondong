@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-It is better wither to be silent, or to say things of more value than silence.
+When your desires are strong enough, you will appear to possess superhuman powers to achieve.
 <!--END_SECTION:auto_commit-->
 #
 
