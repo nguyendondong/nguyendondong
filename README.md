@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-When your desires are strong enough, you will appear to possess superhuman powers to achieve.
+I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it.
 <!--END_SECTION:auto_commit-->
 #
 
