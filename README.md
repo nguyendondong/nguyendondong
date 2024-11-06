@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it.
+Our only limitations are those we set up in our own minds
 <!--END_SECTION:auto_commit-->
 #
 
