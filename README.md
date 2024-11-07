@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Our only limitations are those we set up in our own minds
+Mistake is something that happens to everyone in life.
 <!--END_SECTION:auto_commit-->
 #
 
