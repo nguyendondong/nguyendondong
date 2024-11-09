@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-it's much better to do good in a way that no one knows anything about it.
+Preparation for tomorrow is hard work today.
 <!--END_SECTION:auto_commit-->
 #
 
