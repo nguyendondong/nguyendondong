@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Preparation for tomorrow is hard work today.
+The doorstep to the temple of wisdom is a knowledge of our own ignorance.
 <!--END_SECTION:auto_commit-->
 #
 
