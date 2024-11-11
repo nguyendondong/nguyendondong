@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The doorstep to the temple of wisdom is a knowledge of our own ignorance.
+What I assert, deny, question, in the present, I still can.
 <!--END_SECTION:auto_commit-->
 #
 
