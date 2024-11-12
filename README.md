@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-What I assert, deny, question, in the present, I still can.
+An appeaser is one who feeds a crocodile — hoping it will eat him last.
 <!--END_SECTION:auto_commit-->
 #
 
