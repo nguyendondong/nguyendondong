@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I see it all perfectly; there are two possible situations — one can either do this or that. My honest opinion and my friendly advice is this: do it or do not do it — you will regret both.
+All right, then, I'll go to hell.
 <!--END_SECTION:auto_commit-->
 #
 
