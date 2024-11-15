@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-All right, then, I'll go to hell.
+Atheism is a non-prophet organization.
 <!--END_SECTION:auto_commit-->
 #
 
