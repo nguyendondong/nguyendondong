@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Atheism is a non-prophet organization.
+You have to take what you could get when you're getting started.
 <!--END_SECTION:auto_commit-->
 #
 
