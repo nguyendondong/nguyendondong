@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-You have to take what you could get when you're getting started.
+The only person who is educated is the one who has learned how to learn and change.
 <!--END_SECTION:auto_commit-->
 #
 
