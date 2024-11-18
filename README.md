@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The only person who is educated is the one who has learned how to learn and change.
+All truly great thoughts are conceived while walking.
 <!--END_SECTION:auto_commit-->
 #
 
