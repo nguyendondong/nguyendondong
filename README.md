@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-All truly great thoughts are conceived while walking.
+A little knowledge is a dangerous thing. So is a lot.
 <!--END_SECTION:auto_commit-->
 #
 
