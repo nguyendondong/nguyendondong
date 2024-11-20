@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-A little knowledge is a dangerous thing. So is a lot.
+Music is a higher revelation than all wisdom and philosophy.
 <!--END_SECTION:auto_commit-->
 #
 
