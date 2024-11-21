@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Music is a higher revelation than all wisdom and philosophy.
+When you have got an elephant by the hind leg, and he is trying to run away, it's best to let him run.
 <!--END_SECTION:auto_commit-->
 #
 
