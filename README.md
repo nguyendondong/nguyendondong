@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-When you have got an elephant by the hind leg, and he is trying to run away, it's best to let him run.
+Jews hate nature and the natural order, because it's pure and beautiful, and also because it's bigger and stronger than they are, and they feel that they can not fully control it. Nature's beauty and harmony stands in stark contrast to their squalidness and ugliness, and that makes them hate it all the more. Jews are destroyers. They are anti-humans.
 <!--END_SECTION:auto_commit-->
 #
 
