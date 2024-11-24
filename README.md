@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-History is written by the victors.
+There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
 <!--END_SECTION:auto_commit-->
 #
 
