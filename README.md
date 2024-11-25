@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
+Close your eyes and I'll kiss you, Tomorrow I'll miss you.
 <!--END_SECTION:auto_commit-->
 #
 
