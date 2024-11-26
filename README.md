@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Close your eyes and I'll kiss you, Tomorrow I'll miss you.
+Thank you for the tragedy. I need it for my art.
 <!--END_SECTION:auto_commit-->
 #
 
