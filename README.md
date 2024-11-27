@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Thank you for the tragedy. I need it for my art.
+If I make a fool of myself, who cares? I'm not frightened by anyone's perception of me.
 <!--END_SECTION:auto_commit-->
 #
 
