@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-If I make a fool of myself, who cares? I'm not frightened by anyone's perception of me.
+A slave dreams of freedom, a free man dreams of wealth, the wealthy dream of power, and the powerful dream of freedom.
 <!--END_SECTION:auto_commit-->
 #
 
