@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-A slave dreams of freedom, a free man dreams of wealth, the wealthy dream of power, and the powerful dream of freedom.
+Every one of us is going to die eventually, but we as a species will stick around for a while. That’s why I think accumulating money, fame or power is irrelevant. Serving humanity is the only thing that really matters in the long run.
 <!--END_SECTION:auto_commit-->
 #
 
