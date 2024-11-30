@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Every one of us is going to die eventually, but we as a species will stick around for a while. That’s why I think accumulating money, fame or power is irrelevant. Serving humanity is the only thing that really matters in the long run.
+My music will go on forever. Maybe it's a fool say that, but when me know facts me can say facts. My music will go on forever.
 <!--END_SECTION:auto_commit-->
 #
 
