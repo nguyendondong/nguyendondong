@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-My music will go on forever. Maybe it's a fool say that, but when me know facts me can say facts. My music will go on forever.
+I'm always astounded at the way we automatically look at what divides and separates us. We never look at what people have in common.
 <!--END_SECTION:auto_commit-->
 #
 
