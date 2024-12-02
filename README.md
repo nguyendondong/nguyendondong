@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I'm always astounded at the way we automatically look at what divides and separates us. We never look at what people have in common.
+I can see how it might be possible for a man to look down upon the earth and be an atheist, but I cannot conceive how he could look up into the heavens and say there is no God.
 <!--END_SECTION:auto_commit-->
 #
 
