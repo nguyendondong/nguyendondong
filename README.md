@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I can see how it might be possible for a man to look down upon the earth and be an atheist, but I cannot conceive how he could look up into the heavens and say there is no God.
+As a small child, I felt in my heart two contradictory feelings, the horror of life and the ecstasy of life.
 <!--END_SECTION:auto_commit-->
 #
 
