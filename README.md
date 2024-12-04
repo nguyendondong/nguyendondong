@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-As a small child, I felt in my heart two contradictory feelings, the horror of life and the ecstasy of life.
+Continuous effort - not strength or intelligence - is the key to unlocking our potential.
 <!--END_SECTION:auto_commit-->
 #
 
