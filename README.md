@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Continuous effort - not strength or intelligence - is the key to unlocking our potential.
+A friendship founded on business is better than a business founded on friendship
 <!--END_SECTION:auto_commit-->
 #
 
