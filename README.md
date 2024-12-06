@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-A friendship founded on business is better than a business founded on friendship
+We have committed the Golden Rule to memory; let us now commit it to life.
 <!--END_SECTION:auto_commit-->
 #
 
