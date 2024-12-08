@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.
+she loved to walk down the street with a book under her arm. It had the same significance for her as an elegant cane for the dandy a century ago. It differentiated her from others.
 <!--END_SECTION:auto_commit-->
 #
 
