@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-she loved to walk down the street with a book under her arm. It had the same significance for her as an elegant cane for the dandy a century ago. It differentiated her from others.
+The place where you made your stand never mattered. Only that you were there… and still on your feet.
 <!--END_SECTION:auto_commit-->
 #
 
