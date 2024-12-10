@@ -19,7 +19,10 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The place where you made your stand never mattered. Only that you were there… and still on your feet.
+“I am enclosing two tickets to the first night of my new play; bring a friend ... if you have one."
+— George Bernard Shaw, playwright (to Winston Churchill)
+"Cannot possibly attend first night; will attend second, if there is one."
+— Churchill's response
 <!--END_SECTION:auto_commit-->
 #
 
