@@ -19,10 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-“I am enclosing two tickets to the first night of my new play; bring a friend ... if you have one."
-— George Bernard Shaw, playwright (to Winston Churchill)
-"Cannot possibly attend first night; will attend second, if there is one."
-— Churchill's response
+The fact that you can impose democracy on other nations is already an undemocratic approach.
 <!--END_SECTION:auto_commit-->
 #
 
