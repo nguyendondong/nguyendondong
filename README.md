@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The fact that you can impose democracy on other nations is already an undemocratic approach.
+The roots of education … are bitter, but the fruit is sweet.
 <!--END_SECTION:auto_commit-->
 #
 
