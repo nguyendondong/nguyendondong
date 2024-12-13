@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-The roots of education … are bitter, but the fruit is sweet.
+You believe lies so you eventually learn to trust no one but yourself.
 <!--END_SECTION:auto_commit-->
 #
 
