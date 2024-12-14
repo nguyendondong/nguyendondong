@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-You believe lies so you eventually learn to trust no one but yourself.
+I accept chaos, I'm not sure whether it accepts me.
 <!--END_SECTION:auto_commit-->
 #
 
