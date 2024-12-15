@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-I accept chaos, I'm not sure whether it accepts me.
+Just don’t give up trying to do what you really want to do. Where there is love and inspiration, I don’t think you can go wrong.
 <!--END_SECTION:auto_commit-->
 #
 
