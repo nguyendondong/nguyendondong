@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-Just don’t give up trying to do what you really want to do. Where there is love and inspiration, I don’t think you can go wrong.
+When you laugh, laugh like hell. And when you get angry, get good and angry. Try to be alive. You will be dead soon enough.
 <!--END_SECTION:auto_commit-->
 #
 
