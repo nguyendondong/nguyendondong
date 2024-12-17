@@ -19,7 +19,7 @@
 
 # 🌱 Quotes 🌱
 <!--START_SECTION:auto_commit-->
-When you laugh, laugh like hell. And when you get angry, get good and angry. Try to be alive. You will be dead soon enough.
+Haters never win. I just think that's true about life, because negative energy always costs in the end.
 <!--END_SECTION:auto_commit-->
 #
 
